@@ -1,0 +1,17 @@
+1 : A computer is a electronic device that stores and processes data, often in binary form, in accordance with commands from a variable programme.
+
+2 : AM stands for random-access memory. RAM is essentially short term memory where data is stored as the processor needs it.
+
+3 : Hard disk.
+
+4 : Keyboard
+
+5 : An output device is any hardware device used to send data from a computer to another device or user.
+
+6 : Mouse.
+
+7 : Machine Language
+
+8 : An input device is a piece of equipment used to provide data and control signals to an information processing system.
+
+
